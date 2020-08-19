@@ -13,3 +13,4 @@ conda config --add channels r
 conda install bioconvert
 get "ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/current/sratoolkit
 module load sratoolkit
+line 206
